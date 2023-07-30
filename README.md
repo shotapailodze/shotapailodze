@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">I'm Shota from Georgia<br><br>- 📚 I'm currently learning React / Typescript<br>- ⚡ In my free time I workout</h4>
+<h4 align="left">👋 Hello there! I'm Shota, a passionate front-end developer based in Georgia, Tbilisi. It all started back in 2010 when I wrote my first lines of code, crafting a simple HTML CSS website. From that moment on, I was captivated by the power of coding to create something out of thin air.<br><br>💻 I thrive on building seamless and user-friendly web experiences, and my heart lies in mastering the art of React. Constantly seeking to expand my skills, I stay up-to-date with the latest trends and best practices in front-end development.<br><br>🚀 As I take my first steps into the professional world, I am excited to collaborate on innovative projects, leaving a positive impact on the digital landscape. With each line of code, I aim to bring ideas to life and make a difference in the lives of users.<br><br>📚 I pursued Computer Science at university, nurturing my passion and honing my craft. Now, I'm ready to embark on this coding adventure, striving for continuous growth and embracing new challenges along the way.</h4>
 
 ###
 
@@ -55,15 +55,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -73,9 +81,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shotapailodze&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shotapailodze&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shotapailodze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shotapailodze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
